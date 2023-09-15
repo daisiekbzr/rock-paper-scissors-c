@@ -1,2 +1,2 @@
 # WATCH THE PROCESS IN ASMR:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yk2d15q24O8?si=b_tPVswvKytFZATJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video Thumbnail](https://img.youtube.com/vi/yk2d15q24O8?si=93IenkIXhSiNiuot/0.jpg)](https://www.youtube.com/watch?v=yk2d15q24O8?si=93IenkIXhSiNiuot)
